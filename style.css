@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.main_box{
+    width: 900px;
+    height: 600px;
+    background: linear-gradient(red 25% , green  0 50%, yellow 0 75%, salmon 0 100%);
+}
