@@ -9,5 +9,5 @@
 .main_box{
     width: 900px;
     height: 600px;
-    background: linear-gradient(red 25% , green  0 50%, yellow 0 75%, salmon 0 100%);
+    background: green;
 }
